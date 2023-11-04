@@ -2,13 +2,15 @@
 
 ## About the Roadmap
 
-See the [Course Roadmap](https://github.com/users/jamesdplee/projects/3) here. This repository is used to provide updates, voting, and viewing of the course release schedule at [cloudlee](https://learn.cloudlee.io).
+👉 Click to see the [Course Roadmap](https://github.com/users/jamesdplee/projects/3) here. 
+
+This repository is used to provide updates, voting, and viewing of the course release schedule at [cloudlee](https://learn.cloudlee.io).
 
 ## Voting on Possible Content
 
 The Course Roadmap includes a list of courses that are 'For Consideration'. These are courses that may or may not be created.
 
-👍 You can vote on these course by using emojis. 
+👍 You can vote on these course by using emojis (using a github account).
 
 Please note that _comments are currently disabled._
 
