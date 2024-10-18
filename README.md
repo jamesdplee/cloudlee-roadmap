@@ -18,6 +18,6 @@ Please note that _comments are currently disabled._
 
 If you would like to contact me to discuss any of the content, or to request a new course be considered, please reach out to me.
 
-* TechStudySlack: [https://techstudyslack.com](techstudyslack.com)
+* TechStudyDiscord: [https://discord.gg/TSD](discord.gg/TSD)
 * Twitter: [https://twitter.com/jamesdplee](@jamesdplee)
 * LinkedIn: [https://www.linkedin.com/in/james-lee-6551a314](in/james-lee-6551a314)
